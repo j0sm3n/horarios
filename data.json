@@ -1,0 +1,988 @@
+{
+    "shiftsGroups": [
+        {
+            "category": "maquinista",
+            "location": "benidorm",
+            "shifts": [
+                {
+                    "endHour": 13,
+                    "endMinute": 36,
+                    "name": "1",
+                    "saturation": 71.2,
+                    "startHour": 5,
+                    "startMinute": 27,
+                    "trains": [
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 42,
+                            "departureHour": 6,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9003,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 7,
+                            "arrivalMinute": 42,
+                            "departureHour": 6,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9103,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 8,
+                            "arrivalMinute": 34,
+                            "departureHour": 7,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9106,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 9,
+                            "arrivalMinute": 21,
+                            "departureHour": 8,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9006,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 10,
+                            "arrivalMinute": 42,
+                            "departureHour": 10,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9011,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 11,
+                            "arrivalMinute": 21,
+                            "departureHour": 10,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9010,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 12,
+                            "arrivalMinute": 42,
+                            "departureHour": 12,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9015,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 13,
+                            "arrivalMinute": 21,
+                            "departureHour": 12,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9014,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 14,
+                    "endMinute": 36,
+                    "name": "2",
+                    "saturation": 71.2,
+                    "startHour": 6,
+                    "startMinute": 27,
+                    "trains": [
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 42,
+                            "departureHour": 7,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9005,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 8,
+                            "arrivalMinute": 42,
+                            "departureHour": 7,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9105,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 9,
+                            "arrivalMinute": 34,
+                            "departureHour": 8,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9108,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 10,
+                            "arrivalMinute": 21,
+                            "departureHour": 9,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9008,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 11,
+                            "arrivalMinute": 42,
+                            "departureHour": 11,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9013,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 12,
+                            "arrivalMinute": 21,
+                            "departureHour": 11,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9012,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 13,
+                            "arrivalMinute": 42,
+                            "departureHour": 13,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9017,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 14,
+                            "arrivalMinute": 21,
+                            "departureHour": 13,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9016,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 19,
+                    "endMinute": 36,
+                    "name": "3",
+                    "saturation": 55.3,
+                    "startHour": 11,
+                    "startMinute": 52,
+                    "trains": [
+                        {
+                            "arrivalHour": 12,
+                            "arrivalMinute": 42,
+                            "departureHour": 12,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9015,
+                            "origin": "B",
+                            "passenger": true
+                        },
+                        {
+                            "arrivalHour": 13,
+                            "arrivalMinute": 42,
+                            "departureHour": 12,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9115,
+                            "origin": "CL",
+                            "passenger": true
+                        },
+                        {
+                            "arrivalHour": 14,
+                            "arrivalMinute": 34,
+                            "departureHour": 13,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9118,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 15,
+                            "arrivalMinute": 21,
+                            "departureHour": 14,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9018,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 16,
+                            "arrivalMinute": 42,
+                            "departureHour": 16,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9023,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 17,
+                            "arrivalMinute": 42,
+                            "departureHour": 16,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9123,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 18,
+                            "arrivalMinute": 34,
+                            "departureHour": 17,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9126,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 19,
+                            "arrivalMinute": 21,
+                            "departureHour": 18,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9026,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 22,
+                    "endMinute": 51,
+                    "name": "4",
+                    "saturation": 65.18,
+                    "startHour": 13,
+                    "startMinute": 52,
+                    "trains": [
+                        {
+                            "arrivalHour": 14,
+                            "arrivalMinute": 42,
+                            "departureHour": 14,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9019,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 15,
+                            "arrivalMinute": 42,
+                            "departureHour": 14,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9119,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 16,
+                            "arrivalMinute": 34,
+                            "departureHour": 15,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9122,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 17,
+                            "arrivalMinute": 21,
+                            "departureHour": 16,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9022,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 19,
+                            "arrivalMinute": 42,
+                            "departureHour": 19,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9029,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 20,
+                            "arrivalMinute": 42,
+                            "departureHour": 19,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9129,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 21,
+                            "arrivalMinute": 34,
+                            "departureHour": 20,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9132,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 21,
+                            "departureHour": 21,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9032,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 23,
+                    "endMinute": 15,
+                    "name": "5",
+                    "saturation": 59.69,
+                    "startHour": 14,
+                    "startMinute": 52,
+                    "trains": [
+                        {
+                            "arrivalHour": 15,
+                            "arrivalMinute": 42,
+                            "departureHour": 15,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9021,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 16,
+                            "arrivalMinute": 21,
+                            "departureHour": 15,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9020,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 18,
+                            "arrivalMinute": 42,
+                            "departureHour": 18,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9027,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 19,
+                            "arrivalMinute": 42,
+                            "departureHour": 18,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9127,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 20,
+                            "arrivalMinute": 34,
+                            "departureHour": 19,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9130,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 21,
+                            "arrivalMinute": 21,
+                            "departureHour": 20,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9030,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 25,
+                            "departureHour": 22,
+                            "departureMinute": 7,
+                            "destination": "GR",
+                            "number": 9035,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 46,
+                            "departureHour": 22,
+                            "departureMinute": 28,
+                            "destination": "B",
+                            "number": 9034,
+                            "origin": "GR",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 13,
+                    "endMinute": 0,
+                    "name": "8",
+                    "saturation": 0,
+                    "startHour": 5,
+                    "startMinute": 45
+                },
+                {
+                    "endHour": 21,
+                    "endMinute": 0,
+                    "name": "9",
+                    "saturation": 0,
+                    "startHour": 13,
+                    "startMinute": 45
+                },
+                {
+                    "endHour": 5,
+                    "endMinute": 30,
+                    "name": "A1",
+                    "saturation": 57.14,
+                    "startHour": 23,
+                    "startMinute": 30
+                },
+                {
+                    "endHour": 5,
+                    "endMinute": 52,
+                    "name": "A5",
+                    "saturation": 57.14,
+                    "startHour": 0,
+                    "startMinute": 15
+                },
+                {
+                    "endHour": 14,
+                    "endMinute": 30,
+                    "name": "CU1",
+                    "saturation": 0,
+                    "startHour": 7,
+                    "startMinute": 0
+                }
+            ],
+            "validFrom": "2023-07-14T00:00:00Z"
+        },
+        {
+            "category": "maquinista",
+            "location": "denia",
+            "shifts": [
+                {
+                    "endHour": 12,
+                    "endMinute": 57,
+                    "name": "21",
+                    "saturation": 59.25,
+                    "startHour": 5,
+                    "startMinute": 5,
+                    "trains": [
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 2,
+                            "departureHour": 5,
+                            "departureMinute": 35,
+                            "destination": "TE",
+                            "number": 9202,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 34,
+                            "departureHour": 6,
+                            "departureMinute": 16,
+                            "destination": "CL",
+                            "number": 9102,
+                            "origin": "TE",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 7,
+                            "arrivalMinute": 21,
+                            "departureHour": 6,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9002,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 8,
+                            "arrivalMinute": 42,
+                            "departureHour": 8,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9007,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 9,
+                            "arrivalMinute": 42,
+                            "departureHour": 8,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9107,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 11,
+                            "arrivalMinute": 34,
+                            "departureHour": 10,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9112,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 12,
+                            "arrivalMinute": 42,
+                            "departureHour": 11,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9113,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 13,
+                    "endMinute": 57,
+                    "name": "22",
+                    "saturation": 64.41,
+                    "startHour": 5,
+                    "startMinute": 20,
+                    "trains": [
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 16,
+                            "departureHour": 5,
+                            "departureMinute": 50,
+                            "destination": "TE",
+                            "number": 9102,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 6,
+                            "arrivalMinute": 42,
+                            "departureHour": 6,
+                            "departureMinute": 17,
+                            "destination": "D",
+                            "number": 9101,
+                            "origin": "TE",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 7,
+                            "arrivalMinute": 34,
+                            "departureHour": 6,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9104,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 8,
+                            "arrivalMinute": 21,
+                            "departureHour": 7,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9004,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 9,
+                            "arrivalMinute": 42,
+                            "departureHour": 9,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9009,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 10,
+                            "arrivalMinute": 42,
+                            "departureHour": 9,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9109,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 12,
+                            "arrivalMinute": 34,
+                            "departureHour": 11,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9114,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 13,
+                            "arrivalMinute": 42,
+                            "departureHour": 12,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9115,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 16,
+                    "endMinute": 57,
+                    "name": "23",
+                    "saturation": 66.26,
+                    "startHour": 9,
+                    "startMinute": 35,
+                    "trains": [
+                        {
+                            "arrivalHour": 10,
+                            "arrivalMinute": 34,
+                            "departureHour": 9,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9110,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 11,
+                            "arrivalMinute": 42,
+                            "departureHour": 10,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9111,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 13,
+                            "arrivalMinute": 34,
+                            "departureHour": 12,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9116,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 14,
+                            "arrivalMinute": 42,
+                            "departureHour": 13,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9117,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 15,
+                            "arrivalMinute": 34,
+                            "departureHour": 14,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9120,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 16,
+                            "arrivalMinute": 42,
+                            "departureHour": 15,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9121,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 22,
+                    "endMinute": 57,
+                    "name": "24",
+                    "saturation": 51.48,
+                    "startHour": 14,
+                    "startMinute": 35,
+                    "trains": [
+                        {
+                            "arrivalHour": 15,
+                            "arrivalMinute": 34,
+                            "departureHour": 14,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9120,
+                            "origin": "D",
+                            "passenger": true
+                        },
+                        {
+                            "arrivalHour": 16,
+                            "arrivalMinute": 21,
+                            "departureHour": 15,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9020,
+                            "origin": "CL",
+                            "passenger": true
+                        },
+                        {
+                            "arrivalHour": 17,
+                            "arrivalMinute": 42,
+                            "departureHour": 17,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9025,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 18,
+                            "arrivalMinute": 42,
+                            "departureHour": 17,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9125,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 19,
+                            "arrivalMinute": 34,
+                            "departureHour": 18,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9128,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 20,
+                            "arrivalMinute": 21,
+                            "departureHour": 19,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9028,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 21,
+                            "arrivalMinute": 42,
+                            "departureHour": 21,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9033,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 42,
+                            "departureHour": 21,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9133,
+                            "origin": "CL",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 23,
+                    "endMinute": 11,
+                    "name": "25",
+                    "saturation": 58.2,
+                    "startHour": 16,
+                    "startMinute": 35,
+                    "trains": [
+                        {
+                            "arrivalHour": 17,
+                            "arrivalMinute": 34,
+                            "departureHour": 16,
+                            "departureMinute": 50,
+                            "destination": "CL",
+                            "number": 9124,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 18,
+                            "arrivalMinute": 21,
+                            "departureHour": 17,
+                            "departureMinute": 46,
+                            "destination": "B",
+                            "number": 9024,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 20,
+                            "arrivalMinute": 42,
+                            "departureHour": 20,
+                            "departureMinute": 7,
+                            "destination": "CL",
+                            "number": 9031,
+                            "origin": "B",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 21,
+                            "arrivalMinute": 42,
+                            "departureHour": 20,
+                            "departureMinute": 55,
+                            "destination": "D",
+                            "number": 9131,
+                            "origin": "CL",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 17,
+                            "departureHour": 21,
+                            "departureMinute": 50,
+                            "destination": "TE",
+                            "number": 9134,
+                            "origin": "D",
+                            "passenger": false
+                        },
+                        {
+                            "arrivalHour": 22,
+                            "arrivalMinute": 56,
+                            "departureHour": 22,
+                            "departureMinute": 31,
+                            "destination": "D",
+                            "number": 9135,
+                            "origin": "TE",
+                            "passenger": false
+                        }
+                    ]
+                },
+                {
+                    "endHour": 12,
+                    "endMinute": 30,
+                    "name": "26",
+                    "saturation": 60.72,
+                    "startHour": 5,
+                    "startMinute": 15
+                },
+                {
+                    "endHour": 21,
+                    "endMinute": 45,
+                    "name": "27",
+                    "saturation": 60.72,
+                    "startHour": 14,
+                    "startMinute": 45
+                }
+            ],
+            "validFrom": "2023-07-14T00:00:00Z"
+        },
+        {
+            "category": "usi",
+            "location": "benidorm",
+            "shifts": [
+                {
+                    "endHour": 14,
+                    "endMinute": 36,
+                    "name": "1A",
+                    "startHour": 6,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 13,
+                    "endMinute": 36,
+                    "name": "1B",
+                    "startHour": 5,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 14,
+                    "endMinute": 36,
+                    "name": "2A",
+                    "startHour": 6,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 13,
+                    "endMinute": 36,
+                    "name": "2B",
+                    "startHour": 5,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 23,
+                    "endMinute": 1,
+                    "name": "3",
+                    "startHour": 15,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 23,
+                    "endMinute": 1,
+                    "name": "4",
+                    "startHour": 15,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 17,
+                    "endMinute": 36,
+                    "name": "5",
+                    "startHour": 9,
+                    "startMinute": 54
+                },
+                {
+                    "endHour": 17,
+                    "endMinute": 36,
+                    "name": "6",
+                    "startHour": 9,
+                    "startMinute": 54
+                }
+            ],
+            "validFrom": "2023-07-14T00:00:00Z"
+        }
+    ],
+    "updatedAt": "2023-11-04T09:58:28Z"
+}
