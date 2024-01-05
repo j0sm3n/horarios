@@ -1,10 +1,12 @@
 {
     "shiftsGroups": [
         {
+            "id": 1,
             "category": "maquinista",
             "location": "benidorm",
             "shifts": [
                 {
+                    "id": 4,
                     "endHour": 13,
                     "endMinute": 36,
                     "name": "1",
@@ -13,6 +15,7 @@
                     "startMinute": 27,
                     "trains": [
                         {
+                            "id": 29,
                             "arrivalHour": 6,
                             "arrivalMinute": 42,
                             "departureHour": 6,
@@ -23,6 +26,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 30,
                             "arrivalHour": 7,
                             "arrivalMinute": 42,
                             "departureHour": 6,
@@ -33,6 +37,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 31,
                             "arrivalHour": 8,
                             "arrivalMinute": 34,
                             "departureHour": 7,
@@ -43,6 +48,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 32,
                             "arrivalHour": 9,
                             "arrivalMinute": 21,
                             "departureHour": 8,
@@ -53,6 +59,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 33,
                             "arrivalHour": 10,
                             "arrivalMinute": 42,
                             "departureHour": 10,
@@ -63,6 +70,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 34,
                             "arrivalHour": 11,
                             "arrivalMinute": 21,
                             "departureHour": 10,
@@ -73,6 +81,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 35,
                             "arrivalHour": 12,
                             "arrivalMinute": 42,
                             "departureHour": 12,
@@ -83,6 +92,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 36,
                             "arrivalHour": 13,
                             "arrivalMinute": 21,
                             "departureHour": 12,
@@ -95,6 +105,7 @@
                     ]
                 },
                 {
+                    "id": 5,
                     "endHour": 14,
                     "endMinute": 36,
                     "name": "2",
@@ -103,6 +114,7 @@
                     "startMinute": 27,
                     "trains": [
                         {
+                            "id": 37,
                             "arrivalHour": 6,
                             "arrivalMinute": 42,
                             "departureHour": 7,
@@ -113,6 +125,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 38,
                             "arrivalHour": 8,
                             "arrivalMinute": 42,
                             "departureHour": 7,
@@ -123,6 +136,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 39,
                             "arrivalHour": 9,
                             "arrivalMinute": 34,
                             "departureHour": 8,
@@ -133,6 +147,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 40,
                             "arrivalHour": 10,
                             "arrivalMinute": 21,
                             "departureHour": 9,
@@ -143,6 +158,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 41,
                             "arrivalHour": 11,
                             "arrivalMinute": 42,
                             "departureHour": 11,
@@ -153,6 +169,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 42,
                             "arrivalHour": 12,
                             "arrivalMinute": 21,
                             "departureHour": 11,
@@ -163,6 +180,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 43,
                             "arrivalHour": 13,
                             "arrivalMinute": 42,
                             "departureHour": 13,
@@ -173,6 +191,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 44,
                             "arrivalHour": 14,
                             "arrivalMinute": 21,
                             "departureHour": 13,
@@ -185,6 +204,7 @@
                     ]
                 },
                 {
+                    "id": 6,
                     "endHour": 19,
                     "endMinute": 36,
                     "name": "3",
@@ -193,6 +213,7 @@
                     "startMinute": 52,
                     "trains": [
                         {
+                            "id": 45,
                             "arrivalHour": 12,
                             "arrivalMinute": 42,
                             "departureHour": 12,
@@ -203,6 +224,7 @@
                             "passenger": true
                         },
                         {
+                            "id": 46,
                             "arrivalHour": 13,
                             "arrivalMinute": 42,
                             "departureHour": 12,
@@ -213,6 +235,7 @@
                             "passenger": true
                         },
                         {
+                            "id": 47,
                             "arrivalHour": 14,
                             "arrivalMinute": 34,
                             "departureHour": 13,
@@ -223,6 +246,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 48,
                             "arrivalHour": 15,
                             "arrivalMinute": 21,
                             "departureHour": 14,
@@ -233,6 +257,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 49,
                             "arrivalHour": 16,
                             "arrivalMinute": 42,
                             "departureHour": 16,
@@ -243,6 +268,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 50,
                             "arrivalHour": 17,
                             "arrivalMinute": 42,
                             "departureHour": 16,
@@ -253,6 +279,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 51,
                             "arrivalHour": 18,
                             "arrivalMinute": 34,
                             "departureHour": 17,
@@ -263,6 +290,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 52,
                             "arrivalHour": 19,
                             "arrivalMinute": 21,
                             "departureHour": 18,
@@ -275,6 +303,7 @@
                     ]
                 },
                 {
+                    "id": 7,
                     "endHour": 22,
                     "endMinute": 51,
                     "name": "4",
@@ -283,6 +312,7 @@
                     "startMinute": 52,
                     "trains": [
                         {
+                            "id": 53,
                             "arrivalHour": 14,
                             "arrivalMinute": 42,
                             "departureHour": 14,
@@ -293,6 +323,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 54,
                             "arrivalHour": 15,
                             "arrivalMinute": 42,
                             "departureHour": 14,
@@ -303,6 +334,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 55,
                             "arrivalHour": 16,
                             "arrivalMinute": 34,
                             "departureHour": 15,
@@ -313,6 +345,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 56,
                             "arrivalHour": 17,
                             "arrivalMinute": 21,
                             "departureHour": 16,
@@ -323,6 +356,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 57,
                             "arrivalHour": 19,
                             "arrivalMinute": 42,
                             "departureHour": 19,
@@ -333,6 +367,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 58,
                             "arrivalHour": 20,
                             "arrivalMinute": 42,
                             "departureHour": 19,
@@ -343,6 +378,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 59,
                             "arrivalHour": 21,
                             "arrivalMinute": 34,
                             "departureHour": 20,
@@ -353,6 +389,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 60,
                             "arrivalHour": 22,
                             "arrivalMinute": 21,
                             "departureHour": 21,
@@ -365,6 +402,7 @@
                     ]
                 },
                 {
+                    "id": 8,
                     "endHour": 23,
                     "endMinute": 15,
                     "name": "5",
@@ -373,6 +411,7 @@
                     "startMinute": 52,
                     "trains": [
                         {
+                            "id": 61,
                             "arrivalHour": 15,
                             "arrivalMinute": 42,
                             "departureHour": 15,
@@ -383,6 +422,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 62,
                             "arrivalHour": 16,
                             "arrivalMinute": 21,
                             "departureHour": 15,
@@ -393,6 +433,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 63,
                             "arrivalHour": 18,
                             "arrivalMinute": 42,
                             "departureHour": 18,
@@ -403,6 +444,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 64,
                             "arrivalHour": 19,
                             "arrivalMinute": 42,
                             "departureHour": 18,
@@ -413,6 +455,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 65,
                             "arrivalHour": 20,
                             "arrivalMinute": 34,
                             "departureHour": 19,
@@ -423,6 +466,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 66,
                             "arrivalHour": 21,
                             "arrivalMinute": 21,
                             "departureHour": 20,
@@ -433,6 +477,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 67,
                             "arrivalHour": 22,
                             "arrivalMinute": 25,
                             "departureHour": 22,
@@ -443,6 +488,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 68,
                             "arrivalHour": 22,
                             "arrivalMinute": 46,
                             "departureHour": 22,
@@ -455,6 +501,7 @@
                     ]
                 },
                 {
+                    "id": 9,
                     "endHour": 13,
                     "endMinute": 0,
                     "name": "8",
@@ -463,6 +510,7 @@
                     "startMinute": 45
                 },
                 {
+                    "id": 10,
                     "endHour": 21,
                     "endMinute": 0,
                     "name": "9",
@@ -471,6 +519,7 @@
                     "startMinute": 45
                 },
                 {
+                    "id": 11,
                     "endHour": 5,
                     "endMinute": 30,
                     "name": "A1",
@@ -479,6 +528,7 @@
                     "startMinute": 30
                 },
                 {
+                    "id": 12,
                     "endHour": 5,
                     "endMinute": 52,
                     "name": "A5",
@@ -487,6 +537,7 @@
                     "startMinute": 15
                 },
                 {
+                    "id": 13,
                     "endHour": 14,
                     "endMinute": 30,
                     "name": "CU1",
@@ -498,10 +549,12 @@
             "validFrom": "2023-07-14T00:00:00Z"
         },
         {
+            "id": 2,
             "category": "maquinista",
             "location": "denia",
             "shifts": [
                 {
+                    "id": 14,
                     "endHour": 12,
                     "endMinute": 57,
                     "name": "21",
@@ -510,6 +563,7 @@
                     "startMinute": 5,
                     "trains": [
                         {
+                            "id": 69,
                             "arrivalHour": 6,
                             "arrivalMinute": 2,
                             "departureHour": 5,
@@ -520,6 +574,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 70,
                             "arrivalHour": 6,
                             "arrivalMinute": 34,
                             "departureHour": 6,
@@ -530,6 +585,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 71,
                             "arrivalHour": 7,
                             "arrivalMinute": 21,
                             "departureHour": 6,
@@ -540,6 +596,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 72,
                             "arrivalHour": 8,
                             "arrivalMinute": 42,
                             "departureHour": 8,
@@ -550,6 +607,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 73,
                             "arrivalHour": 9,
                             "arrivalMinute": 42,
                             "departureHour": 8,
@@ -560,6 +618,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 74,
                             "arrivalHour": 11,
                             "arrivalMinute": 34,
                             "departureHour": 10,
@@ -570,6 +629,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 75,
                             "arrivalHour": 12,
                             "arrivalMinute": 42,
                             "departureHour": 11,
@@ -582,6 +642,7 @@
                     ]
                 },
                 {
+                    "id": 15,
                     "endHour": 13,
                     "endMinute": 57,
                     "name": "22",
@@ -590,6 +651,7 @@
                     "startMinute": 20,
                     "trains": [
                         {
+                            "id": 76,
                             "arrivalHour": 6,
                             "arrivalMinute": 16,
                             "departureHour": 5,
@@ -600,6 +662,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 77,
                             "arrivalHour": 6,
                             "arrivalMinute": 42,
                             "departureHour": 6,
@@ -610,6 +673,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 78,
                             "arrivalHour": 7,
                             "arrivalMinute": 34,
                             "departureHour": 6,
@@ -620,6 +684,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 79,
                             "arrivalHour": 8,
                             "arrivalMinute": 21,
                             "departureHour": 7,
@@ -630,6 +695,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 80,
                             "arrivalHour": 9,
                             "arrivalMinute": 42,
                             "departureHour": 9,
@@ -640,6 +706,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 81,
                             "arrivalHour": 10,
                             "arrivalMinute": 42,
                             "departureHour": 9,
@@ -650,6 +717,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 82,
                             "arrivalHour": 12,
                             "arrivalMinute": 34,
                             "departureHour": 11,
@@ -660,6 +728,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 83,
                             "arrivalHour": 13,
                             "arrivalMinute": 42,
                             "departureHour": 12,
@@ -672,6 +741,7 @@
                     ]
                 },
                 {
+                    "id": 16,
                     "endHour": 16,
                     "endMinute": 57,
                     "name": "23",
@@ -680,6 +750,7 @@
                     "startMinute": 35,
                     "trains": [
                         {
+                            "id": 84,
                             "arrivalHour": 10,
                             "arrivalMinute": 34,
                             "departureHour": 9,
@@ -690,6 +761,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 85,
                             "arrivalHour": 11,
                             "arrivalMinute": 42,
                             "departureHour": 10,
@@ -700,6 +772,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 86,
                             "arrivalHour": 13,
                             "arrivalMinute": 34,
                             "departureHour": 12,
@@ -710,6 +783,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 87,
                             "arrivalHour": 14,
                             "arrivalMinute": 42,
                             "departureHour": 13,
@@ -720,6 +794,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 88,
                             "arrivalHour": 15,
                             "arrivalMinute": 34,
                             "departureHour": 14,
@@ -730,6 +805,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 89,
                             "arrivalHour": 16,
                             "arrivalMinute": 42,
                             "departureHour": 15,
@@ -742,6 +818,7 @@
                     ]
                 },
                 {
+                    "id": 17,
                     "endHour": 22,
                     "endMinute": 57,
                     "name": "24",
@@ -750,6 +827,7 @@
                     "startMinute": 35,
                     "trains": [
                         {
+                            "id": 90,
                             "arrivalHour": 15,
                             "arrivalMinute": 34,
                             "departureHour": 14,
@@ -760,6 +838,7 @@
                             "passenger": true
                         },
                         {
+                            "id": 91,
                             "arrivalHour": 16,
                             "arrivalMinute": 21,
                             "departureHour": 15,
@@ -770,6 +849,7 @@
                             "passenger": true
                         },
                         {
+                            "id": 92,
                             "arrivalHour": 17,
                             "arrivalMinute": 42,
                             "departureHour": 17,
@@ -780,6 +860,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 93,
                             "arrivalHour": 18,
                             "arrivalMinute": 42,
                             "departureHour": 17,
@@ -790,6 +871,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 94,
                             "arrivalHour": 19,
                             "arrivalMinute": 34,
                             "departureHour": 18,
@@ -800,6 +882,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 95,
                             "arrivalHour": 20,
                             "arrivalMinute": 21,
                             "departureHour": 19,
@@ -810,6 +893,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 96,
                             "arrivalHour": 21,
                             "arrivalMinute": 42,
                             "departureHour": 21,
@@ -820,6 +904,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 97,
                             "arrivalHour": 22,
                             "arrivalMinute": 42,
                             "departureHour": 21,
@@ -832,6 +917,7 @@
                     ]
                 },
                 {
+                    "id": 18,
                     "endHour": 23,
                     "endMinute": 11,
                     "name": "25",
@@ -840,6 +926,7 @@
                     "startMinute": 35,
                     "trains": [
                         {
+                            "id": 98,
                             "arrivalHour": 17,
                             "arrivalMinute": 34,
                             "departureHour": 16,
@@ -850,6 +937,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 99,
                             "arrivalHour": 18,
                             "arrivalMinute": 21,
                             "departureHour": 17,
@@ -860,6 +948,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 100,
                             "arrivalHour": 20,
                             "arrivalMinute": 42,
                             "departureHour": 20,
@@ -870,6 +959,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 101,
                             "arrivalHour": 21,
                             "arrivalMinute": 42,
                             "departureHour": 20,
@@ -880,6 +970,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 102,
                             "arrivalHour": 22,
                             "arrivalMinute": 17,
                             "departureHour": 21,
@@ -890,6 +981,7 @@
                             "passenger": false
                         },
                         {
+                            "id": 103,
                             "arrivalHour": 22,
                             "arrivalMinute": 56,
                             "departureHour": 22,
@@ -902,6 +994,7 @@
                     ]
                 },
                 {
+                    "id": 19,
                     "endHour": 12,
                     "endMinute": 30,
                     "name": "26",
@@ -910,6 +1003,7 @@
                     "startMinute": 15
                 },
                 {
+                    "id": 20,
                     "endHour": 21,
                     "endMinute": 45,
                     "name": "27",
@@ -921,10 +1015,12 @@
             "validFrom": "2023-07-14T00:00:00Z"
         },
         {
+            "id": 3,
             "category": "usi",
             "location": "benidorm",
             "shifts": [
                 {
+                    "id": 21,
                     "endHour": 14,
                     "endMinute": 36,
                     "name": "1A",
@@ -932,6 +1028,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 22,
                     "endHour": 13,
                     "endMinute": 36,
                     "name": "1B",
@@ -939,6 +1036,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 23,
                     "endHour": 14,
                     "endMinute": 36,
                     "name": "2A",
@@ -946,6 +1044,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 24,
                     "endHour": 13,
                     "endMinute": 36,
                     "name": "2B",
@@ -953,6 +1052,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 25,
                     "endHour": 23,
                     "endMinute": 1,
                     "name": "3",
@@ -960,6 +1060,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 26,
                     "endHour": 23,
                     "endMinute": 1,
                     "name": "4",
@@ -967,6 +1068,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 27,
                     "endHour": 17,
                     "endMinute": 36,
                     "name": "5",
@@ -974,6 +1076,7 @@
                     "startMinute": 54
                 },
                 {
+                    "id": 28,
                     "endHour": 17,
                     "endMinute": 36,
                     "name": "6",
