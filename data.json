@@ -115,7 +115,7 @@
                     "trains": [
                         {
                             "id": 37,
-                            "arrivalHour": 6,
+                            "arrivalHour": 7,
                             "arrivalMinute": 42,
                             "departureHour": 7,
                             "departureMinute": 7,
