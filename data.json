@@ -20,9 +20,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 6,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9003,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -31,9 +31,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 6,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9103,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -42,9 +42,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 7,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9106,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -53,9 +53,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 8,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9006,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -64,9 +64,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 10,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9011,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -75,9 +75,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 10,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9010,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -86,9 +86,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 12,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9015,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -97,9 +97,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 12,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9014,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -119,9 +119,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 7,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9005,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -130,9 +130,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 7,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9105,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -141,9 +141,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 8,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9108,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -152,9 +152,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 9,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9008,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -163,9 +163,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 11,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9013,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -174,9 +174,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 11,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9012,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -185,9 +185,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 13,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9017,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -196,9 +196,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 13,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9016,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -218,9 +218,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 12,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9015,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": true
                         },
                         {
@@ -229,9 +229,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 12,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9115,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": true
                         },
                         {
@@ -240,9 +240,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 13,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9118,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -251,9 +251,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 14,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9018,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -262,9 +262,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 16,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9023,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -273,9 +273,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 16,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9123,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -284,9 +284,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 17,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9126,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -295,9 +295,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 18,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9026,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -317,9 +317,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 14,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9019,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -328,9 +328,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 14,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9119,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -339,9 +339,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 15,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9122,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -350,9 +350,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 16,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9022,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -361,9 +361,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 19,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9029,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -372,9 +372,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 19,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9129,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -383,9 +383,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 20,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9132,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -394,9 +394,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 21,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9032,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -416,9 +416,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 15,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9021,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -427,9 +427,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 15,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9020,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -438,9 +438,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 18,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9027,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -449,9 +449,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 18,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9127,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -460,9 +460,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 19,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9130,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -471,9 +471,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 20,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9030,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -482,9 +482,9 @@
                             "arrivalMinute": 25,
                             "departureHour": 22,
                             "departureMinute": 7,
-                            "destination": "GR",
+                            "destination": "garganes",
                             "number": 9035,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -493,9 +493,9 @@
                             "arrivalMinute": 46,
                             "departureHour": 22,
                             "departureMinute": 28,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9034,
-                            "origin": "GR",
+                            "origin": "garganes",
                             "passenger": false
                         }
                     ]
@@ -568,9 +568,9 @@
                             "arrivalMinute": 2,
                             "departureHour": 5,
                             "departureMinute": 35,
-                            "destination": "TE",
+                            "destination": "teulada",
                             "number": 9202,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -579,9 +579,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 6,
                             "departureMinute": 16,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9102,
-                            "origin": "TE",
+                            "origin": "teulada",
                             "passenger": false
                         },
                         {
@@ -590,9 +590,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 6,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9002,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -601,9 +601,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 8,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9007,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -612,9 +612,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 8,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9107,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -623,9 +623,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 10,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9112,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -634,9 +634,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 11,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9113,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -656,9 +656,9 @@
                             "arrivalMinute": 16,
                             "departureHour": 5,
                             "departureMinute": 50,
-                            "destination": "TE",
+                            "destination": "teulada",
                             "number": 9102,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -667,9 +667,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 6,
                             "departureMinute": 17,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9101,
-                            "origin": "TE",
+                            "origin": "teulada",
                             "passenger": false
                         },
                         {
@@ -678,9 +678,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 6,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9104,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -689,9 +689,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 7,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9004,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -700,9 +700,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 9,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9009,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -711,9 +711,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 9,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9109,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -722,9 +722,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 11,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9114,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -733,9 +733,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 12,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9115,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -755,9 +755,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 9,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9110,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -766,9 +766,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 10,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9111,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -777,9 +777,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 12,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9116,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -788,9 +788,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 13,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9117,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -799,9 +799,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 14,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9120,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -810,9 +810,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 15,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9121,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -832,9 +832,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 14,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9120,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": true
                         },
                         {
@@ -843,9 +843,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 15,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9020,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": true
                         },
                         {
@@ -854,9 +854,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 17,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9025,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -865,9 +865,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 17,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9125,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -876,9 +876,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 18,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9128,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -887,9 +887,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 19,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9028,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -898,9 +898,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 21,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9033,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -909,9 +909,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 21,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9133,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         }
                     ]
@@ -931,9 +931,9 @@
                             "arrivalMinute": 34,
                             "departureHour": 16,
                             "departureMinute": 50,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9124,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -942,9 +942,9 @@
                             "arrivalMinute": 21,
                             "departureHour": 17,
                             "departureMinute": 46,
-                            "destination": "B",
+                            "destination": "benidorm",
                             "number": 9024,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -953,9 +953,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 20,
                             "departureMinute": 7,
-                            "destination": "CL",
+                            "destination": "calp",
                             "number": 9031,
-                            "origin": "B",
+                            "origin": "benidorm",
                             "passenger": false
                         },
                         {
@@ -964,9 +964,9 @@
                             "arrivalMinute": 42,
                             "departureHour": 20,
                             "departureMinute": 55,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9131,
-                            "origin": "CL",
+                            "origin": "calp",
                             "passenger": false
                         },
                         {
@@ -975,9 +975,9 @@
                             "arrivalMinute": 17,
                             "departureHour": 21,
                             "departureMinute": 50,
-                            "destination": "TE",
+                            "destination": "teulada",
                             "number": 9134,
-                            "origin": "D",
+                            "origin": "denia",
                             "passenger": false
                         },
                         {
@@ -986,9 +986,9 @@
                             "arrivalMinute": 56,
                             "departureHour": 22,
                             "departureMinute": 31,
-                            "destination": "D",
+                            "destination": "denia",
                             "number": 9135,
-                            "origin": "TE",
+                            "origin": "teulada",
                             "passenger": false
                         }
                     ]
