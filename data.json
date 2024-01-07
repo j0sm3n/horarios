@@ -2,8 +2,8 @@
     "shiftsGroups": [
         {
             "id": 1,
-            "category": "maquinista",
-            "location": "benidorm",
+            "category": "Maquinista",
+            "location": "Benidorm",
             "shifts": [
                 {
                     "id": 4,
@@ -550,8 +550,8 @@
         },
         {
             "id": 2,
-            "category": "maquinista",
-            "location": "denia",
+            "category": "Maquinista",
+            "location": "Denia",
             "shifts": [
                 {
                     "id": 14,
@@ -1016,8 +1016,8 @@
         },
         {
             "id": 3,
-            "category": "usi",
-            "location": "benidorm",
+            "category": "USI",
+            "location": "Benidorm",
             "shifts": [
                 {
                     "id": 21,
