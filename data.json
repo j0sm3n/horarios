@@ -1085,6 +1085,126 @@
                 }
             ],
             "validFrom": "2023-07-14T00:00:00Z"
+        },
+        {
+            "id": 104,
+            "category": "usi",
+            "location": "denia",
+            "shifts": [
+                {
+                    "id": 105,
+                    "endHour": 13,
+                    "endMinute": 12,
+                    "name": "1A",
+                    "startHour": 5,
+                    "startMinute": 25
+                },
+                {
+                    "id": 106,
+                    "endHour": 13,
+                    "endMinute": 15,
+                    "name": "1B",
+                    "startHour": 5,
+                    "startMinute": 40
+                },
+                {
+                    "id": 107,
+                    "endHour": 14,
+                    "endMinute": 15,
+                    "name": "1C",
+                    "startHour": 6,
+                    "startMinute": 40
+                },
+                {
+                    "id": 108,
+                    "endHour": 13,
+                    "endMinute": 12,
+                    "name": "2A",
+                    "startHour": 5,
+                    "startMinute": 25
+                },
+                {
+                    "id": 109,
+                    "endHour": 13,
+                    "endMinute": 15,
+                    "name": "2B",
+                    "startHour": 5,
+                    "startMinute": 40
+                },
+                {
+                    "id": 110,
+                    "endHour": 14,
+                    "endMinute": 15,
+                    "name": "2C",
+                    "startHour": 6,
+                    "startMinute": 40
+                },
+                {
+                    "id": 111,
+                    "endHour": 23,
+                    "endMinute": 11,
+                    "name": "3A",
+                    "startHour": 15,
+                    "startMinute": 40
+                },
+                {
+                    "id": 112,
+                    "endHour": 23,
+                    "endMinute": 0,
+                    "name": "3B",
+                    "startHour": 15,
+                    "startMinute": 40
+                },
+                {
+                    "id": 113,
+                    "endHour": 22,
+                    "endMinute": 0,
+                    "name": "3C",
+                    "startHour": 14,
+                    "startMinute": 40
+                },
+                {
+                    "id": 114,
+                    "endHour": 23,
+                    "endMinute": 11,
+                    "name": "4A",
+                    "startHour": 15,
+                    "startMinute": 40
+                },
+                {
+                    "id": 115,
+                    "endHour": 23,
+                    "endMinute": 0,
+                    "name": "4B",
+                    "startHour": 15,
+                    "startMinute": 40
+                },
+                {
+                    "id": 116,
+                    "endHour": 22,
+                    "endMinute": 0,
+                    "name": "4C",
+                    "startHour": 14,
+                    "startMinute": 40
+                },
+                {
+                    "id": 117,
+                    "endHour": 18,
+                    "endMinute": 10,
+                    "name": "5",
+                    "startHour": 10,
+                    "startMinute": 40
+                },
+                {
+                    "id": 118,
+                    "endHour": 18,
+                    "endMinute": 10,
+                    "name": "6",
+                    "startHour": 10,
+                    "startMinute": 40
+                }
+            ],
+            "validFrom": "2023-07-14T00:00:00Z"
         }
     ],
     "updatedAt": "2024-01-05T18:02:28Z"
